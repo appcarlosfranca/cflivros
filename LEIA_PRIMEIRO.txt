@@ -8,3 +8,5 @@ BIBLIOTECA LISPENCER — LEITOR PDF.JS / GITHUB PAGES
 6. Em caso de cache antigo: abra a URL com ?v=6 e atualize a página; se necessário, limpe os dados do site (faça backup dos livros importados antes).
 7. PDFs importados ficam no armazenamento do navegador e podem ser perdidos se seus dados forem apagados.
 8. O modo adaptável usa texto extraído e não reproduz necessariamente a diagramação; o modo PDF original é o padrão.
+
+VERSAO CAPAS INCORPORADAS: as quatro capas estao dentro de books.json. Nao precisa enviar pasta assets. Substitua TODOS os arquivos do repositorio, inclusive books.json e sw.js. Limpe cache / recarregue com Ctrl+Shift+R.
