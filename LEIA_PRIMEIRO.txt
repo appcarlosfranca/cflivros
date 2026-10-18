@@ -1,0 +1,10 @@
+BIBLIOTECA LISPENCER — LEITOR PDF.JS / GITHUB PAGES
+
+1. Extraia o ZIP e envie TODO o conteúdo para a raiz do repositório (sem pasta externa).
+2. Publique via Settings > Pages > Deploy from a branch > main > /(root).
+3. Abra a URL HTTPS do GitHub Pages. NÃO abra index.html como arquivo local.
+4. O leitor PDF.js carrega dois scripts da CDN Cloudflare na primeira visita, portanto exige internet inicialmente. Depois, o service worker tenta armazená-los para leitura offline.
+5. Os quatro PDFs originais acompanham o pacote, e suas páginas são desenhadas sob demanda, sem 836 imagens duplicadas.
+6. Em caso de cache antigo: abra a URL com ?v=6 e atualize a página; se necessário, limpe os dados do site (faça backup dos livros importados antes).
+7. PDFs importados ficam no armazenamento do navegador e podem ser perdidos se seus dados forem apagados.
+8. O modo adaptável usa texto extraído e não reproduz necessariamente a diagramação; o modo PDF original é o padrão.

@@ -1,0 +1,7 @@
+const CACHE='lispenser-v6-pdfjs';
+const CORE=['./','index.html','app.css','app.js','manifest.json','books.json','icon-192.png','icon-512.png','assets/brinquedos.webp','assets/imperador.webp','assets/cancao.webp','assets/espelho.webp','books/brinquedos.pdf','books/imperador.pdf','books/cancao.pdf','books/espelho.pdf','books/brinquedos.json','books/imperador.json','books/cancao.json','books/espelho.json'];
+const CDN='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/';
+self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(async c=>{await c.addAll(CORE);await Promise.allSettled(['pdf.min.js','pdf.worker.min.js'].map(async name=>{const request=new Request(CDN+name,{mode:'no-cors'});const response=await fetch(request);await c.put(request,response)}))}).then(()=>self.skipWaiting()))});
+self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
+self.addEventListener('fetch',e=>{if(e.request.method!=='GET')return;const url=new URL(e.request.url);if(url.origin!==self.location.origin&&!url.href.startsWith(CDN))return;
+e.respondWith(caches.match(e.request).then(async cached=>{if(cached)return cached;const response=await fetch(e.request);if(response.ok||response.type==='opaque'){const cache=await caches.open(CACHE);cache.put(e.request,response.clone()).catch(()=>{})}return response}))});

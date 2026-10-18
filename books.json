@@ -1,0 +1,481 @@
+[
+  {
+    "id": "brinquedos",
+    "title": "Na Cidade dos Brinquedos Esquecidos",
+    "author": "Lispenser",
+    "file": "books/brinquedos.pdf",
+    "cover": "assets/brinquedos.webp",
+    "pages": 184,
+    "description": "Um pequeno soldadinho de corda conhece o mundo pelo tamanho de seus passos. Mas a história de uma cidade escondida, onde brinquedos esquecidos constroem suas próprias casas e encontram novos caminhos, desperta nele uma curiosidade impossível de ignorar. Entre amizades, músicas e desafios, descobrirá que crescer não depende do tamanho dos passos, mas da coragem de seguir adiante.",
+    "toc": [
+      {
+        "level": 1,
+        "title": "01 — A chave entre dois dedos",
+        "page": 5
+      },
+      {
+        "level": 1,
+        "title": "02 — O soldado que vinha com pilhas",
+        "page": 13
+      },
+      {
+        "level": 1,
+        "title": "03 — Uma luz fora do alcance",
+        "page": 23
+      },
+      {
+        "level": 1,
+        "title": "04 — O lugar da Zero",
+        "page": 32
+      },
+      {
+        "level": 1,
+        "title": "05 — A moradora das seis cordas",
+        "page": 43
+      },
+      {
+        "level": 1,
+        "title": "06 — A canção que ficou",
+        "page": 53
+      },
+      {
+        "level": 1,
+        "title": "07 — O mundo não tinha prateleiras",
+        "page": 63
+      },
+      {
+        "level": 1,
+        "title": "08 — Sarita e o tamanho das asas",
+        "page": 73
+      },
+      {
+        "level": 1,
+        "title": "09 — Uma ponte para quem anda",
+        "page": 84
+      },
+      {
+        "level": 1,
+        "title": "10 — O portão azul",
+        "page": 95
+      },
+      {
+        "level": 1,
+        "title": "11 — O carrossel e o mapa",
+        "page": 105
+      },
+      {
+        "level": 1,
+        "title": "12 — Uma oficina cheia de tentativas",
+        "page": 117
+      },
+      {
+        "level": 1,
+        "title": "13 — O passo de Margot",
+        "page": 128
+      },
+      {
+        "level": 1,
+        "title": "14 — A água depois da chuva",
+        "page": 138
+      },
+      {
+        "level": 1,
+        "title": "15 — A noite da tempestade",
+        "page": 147
+      },
+      {
+        "level": 1,
+        "title": "16 — A canção atravessa a cidade",
+        "page": 155
+      },
+      {
+        "level": 1,
+        "title": "17 — A festa que mudou de dia",
+        "page": 164
+      },
+      {
+        "level": 1,
+        "title": "18 — Na entrada da cidade",
+        "page": 174
+      }
+    ]
+  },
+  {
+    "id": "imperador",
+    "title": "O Imperador Bigodela Drão",
+    "author": "Lispenser",
+    "file": "books/imperador.pdf",
+    "cover": "assets/imperador.webp",
+    "pages": 103,
+    "description": "Na Floresta Vermelha, enchentes, promessas e discursos colocam à prova a confiança entre os animais. Enquanto Bigodela Drão conquista seguidores com palavras sedutoras, a jovem Tan Dara aprende a questionar boatos, distinguir fatos de mentiras e cobrar responsabilidade de quem deseja governar. Uma fábula sobre desinformação, manipulação política e o valor de pensar por si mesmo.",
+    "toc": [
+      {
+        "level": 1,
+        "title": "Uma visita pela porta errada",
+        "page": 4
+      },
+      {
+        "level": 1,
+        "title": "Um lugar mais alto",
+        "page": 11
+      },
+      {
+        "level": 1,
+        "title": "A vez de falar",
+        "page": 19
+      },
+      {
+        "level": 1,
+        "title": "Uma promessa com endereço",
+        "page": 27
+      },
+      {
+        "level": 1,
+        "title": "A pergunta que sobrou",
+        "page": 36
+      },
+      {
+        "level": 1,
+        "title": "O que ficou fora do aviso",
+        "page": 44
+      },
+      {
+        "level": 1,
+        "title": "As folhas da contagem",
+        "page": 52
+      },
+      {
+        "level": 1,
+        "title": "O tamanho de uma medida",
+        "page": 61
+      },
+      {
+        "level": 1,
+        "title": "As cestas de amanhã",
+        "page": 70
+      },
+      {
+        "level": 1,
+        "title": "Antes da primeira mordida",
+        "page": 79
+      },
+      {
+        "level": 1,
+        "title": "O lugar de cada voz",
+        "page": 87
+      },
+      {
+        "level": 1,
+        "title": "A marca na parede",
+        "page": 96
+      }
+    ]
+  },
+  {
+    "id": "cancao",
+    "title": "O Menino que Faltava na Canção",
+    "author": "Lispenser",
+    "file": "books/cancao.pdf",
+    "cover": "assets/cancao.webp",
+    "pages": 292,
+    "description": "Romeu cresceu ouvindo histórias sobre uma noite que mudou seu destino. Quando uma antiga canção desperta lembranças que não combinam com a versão oficial, o jovem cavaleiro inicia uma investigação por registros esquecidos, segredos e perguntas que ninguém parecia disposto a fazer. Uma fantasia sobre coragem, memória e aqueles que a história deixou de mencionar.",
+    "toc": [
+      {
+        "level": 1,
+        "title": "Capítulo 1 — A armadura que não sabia sentar",
+        "page": 5
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 2 — O menino que faltava na canção",
+        "page": 16
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 3 — O padeiro e o aniversário desaparecido",
+        "page": 28
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 4 — Quatro pessoas e uma missão mal explicada",
+        "page": 40
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 5 — A estrada tem opiniões",
+        "page": 52
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 6 — A porta pequena",
+        "page": 65
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 7 — O barulho de uma coisa quebrada",
+        "page": 78
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 8 — A biblioteca onde ninguém devia espirrar",
+        "page": 90
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 9 — A rainha abre uma gaveta",
+        "page": 101
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 10 — A oferta para Rozigart",
+        "page": 114
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 11 — A janela que mudou de lugar",
+        "page": 127
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 12 — O que uma ponte consegue carregar",
+        "page": 140
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 13 — A guardiã do caminho",
+        "page": 151
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 14 — O espelho que não sabia amanhã",
+        "page": 164
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 15 — A parte que faltava",
+        "page": 177
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 16 — O que precisa ser contado",
+        "page": 187
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 17 — A ordem que chegou primeiro",
+        "page": 199
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 18 — A casa antes da chuva",
+        "page": 210
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 19 — O amigo do outro lado",
+        "page": 221
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 20 — A lembrança da rainha",
+        "page": 232
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 21 — A espada aprende o nome",
+        "page": 245
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 22 — As vozes sob as escamas",
+        "page": 255
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 23 — O que volta, o que fica",
+        "page": 265
+      },
+      {
+        "level": 1,
+        "title": "Capítulo 24 — Uma história com mais gente",
+        "page": 275
+      },
+      {
+        "level": 1,
+        "title": "Epílogo — A rosa sem telhado",
+        "page": 286
+      }
+    ]
+  },
+  {
+    "id": "espelho",
+    "title": "O Menino que Dobrava Esquinas com Espelho",
+    "author": "Lispenser",
+    "file": "books/espelho.pdf",
+    "cover": "assets/espelho.webp",
+    "pages": 257,
+    "description": "Emanuel cresce entre ruas, quintais, brincadeiras improvisadas e sonhos maiores que as possibilidades de sua família. Entre a escola, os irmãos, as ausências de Mainha e a vontade de jogar futebol, ele aprende a encontrar caminhos mesmo quando a vida parece erguer muros. Uma narrativa sensível sobre infância, desigualdade, afeto e as pequenas conquistas que permanecem conosco.",
+    "toc": [
+      {
+        "level": 1,
+        "title": "Parte I — A casa",
+        "page": 5
+      },
+      {
+        "level": 2,
+        "title": "01 — O pedaço de espelho",
+        "page": 6
+      },
+      {
+        "level": 2,
+        "title": "02 — Sete lugares para uma mesa pequena",
+        "page": 16
+      },
+      {
+        "level": 2,
+        "title": "03 — Três dias antes",
+        "page": 27
+      },
+      {
+        "level": 2,
+        "title": "04 — O barulho do caminhão",
+        "page": 34
+      },
+      {
+        "level": 2,
+        "title": "05 — A casa quando Mainha não está",
+        "page": 40
+      },
+      {
+        "level": 2,
+        "title": "06 — Os grãos de milho",
+        "page": 50
+      },
+      {
+        "level": 2,
+        "title": "07 — Quando Mainha aparece",
+        "page": 57
+      },
+      {
+        "level": 1,
+        "title": "Parte II — A rua",
+        "page": 63
+      },
+      {
+        "level": 2,
+        "title": "08 — O lado de fora",
+        "page": 64
+      },
+      {
+        "level": 2,
+        "title": "09 — A rua inventava brinquedos",
+        "page": 77
+      },
+      {
+        "level": 2,
+        "title": "10 — Lambretas",
+        "page": 85
+      },
+      {
+        "level": 2,
+        "title": "11 — Os meninos maiores",
+        "page": 95
+      },
+      {
+        "level": 2,
+        "title": "12 — Enquanto a noite dormia",
+        "page": 105
+      },
+      {
+        "level": 2,
+        "title": "13 — Você já está em Lagarto",
+        "page": 111
+      },
+      {
+        "level": 1,
+        "title": "Parte III — A escola",
+        "page": 121
+      },
+      {
+        "level": 2,
+        "title": "14 — A menina de azul e branco",
+        "page": 122
+      },
+      {
+        "level": 2,
+        "title": "15 — Um lugar onde todos eram crianças",
+        "page": 128
+      },
+      {
+        "level": 2,
+        "title": "16 — A belezinha",
+        "page": 137
+      },
+      {
+        "level": 2,
+        "title": "17 — Fraldinha",
+        "page": 146
+      },
+      {
+        "level": 2,
+        "title": "18 — Descalço",
+        "page": 154
+      },
+      {
+        "level": 2,
+        "title": "19 — Randal",
+        "page": 165
+      },
+      {
+        "level": 2,
+        "title": "20 — Cartas",
+        "page": 174
+      },
+      {
+        "level": 2,
+        "title": "21 — Qualquer dia podia ser especial",
+        "page": 185
+      },
+      {
+        "level": 1,
+        "title": "Parte IV — O tempo",
+        "page": 194
+      },
+      {
+        "level": 2,
+        "title": "22 — Domingo",
+        "page": 195
+      },
+      {
+        "level": 2,
+        "title": "23 — A casa crescia",
+        "page": 205
+      },
+      {
+        "level": 2,
+        "title": "24 — O mundo de Mainha",
+        "page": 214
+      },
+      {
+        "level": 2,
+        "title": "25 — Um dia eu ajudo",
+        "page": 226
+      },
+      {
+        "level": 2,
+        "title": "26 — O que não se conquista",
+        "page": 236
+      },
+      {
+        "level": 2,
+        "title": "27 — A última carta",
+        "page": 244
+      },
+      {
+        "level": 2,
+        "title": "28 — O primeiro dia depois",
+        "page": 251
+      }
+    ]
+  }
+]
